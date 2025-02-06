@@ -7,8 +7,8 @@
 *  Name: Novel Myint Moh 
 *  Student ID: 101573236 
 *  Date: 4/02/2025
-*  Cyclic Web App URL:  
-*  GitHub Repository URL: 
+*  Cyclic Web App URL:  https://web322app-t885.onrender.com
+*  GitHub Repository URL: https://github.com/NobleMyintMo/web322app
 **********************************************************************************/
 
 const express = require("express");
