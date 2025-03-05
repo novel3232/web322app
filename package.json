@@ -4,11 +4,11 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  },
+  }
   "keywords": [],
   "author": "Novel Myint Moh",
   "license": "ISC",
-  "description": "WEB322 Assignment 2",
+  "description": "WEB322 Assignment 3",
   "dependencies": {
     "cloudinary": "^2.5.1",
     "express": "^4.21.2",
