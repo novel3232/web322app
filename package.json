@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "web322-app",
   "version": "1.0.0",
@@ -17,3 +18,24 @@
     "streamifier": "^0.1.1"
   }
 }
+=======
+{
+  "name": "web322-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Novel Myint Moh",
+  "license": "ISC",
+  "description": "WEB322 Assignment 3",
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "multer": "^1.4.5-lts.1",
+    "streamifier": "^0.1.1"
+  }
+}
+>>>>>>> 6e590bf57ced765152fd5f87548a28b8df625741
